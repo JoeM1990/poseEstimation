@@ -26,6 +26,5 @@ flutter run
 - Pose Estimation 
   - PoseNet
 
-## Previews
 
 
