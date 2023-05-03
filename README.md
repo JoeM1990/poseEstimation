@@ -28,5 +28,4 @@ flutter run
 
 ## Previews
 
-![](preview.jpg) 
 
